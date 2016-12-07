@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_remove.png",
+        "source": "/home/felipe/IonicProjects/botaoSite/platforms/android/res/drawable-xhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_next_item.png",
+        "source": "/home/felipe/IonicProjects/botaoSite/platforms/android/res/drawable-xhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_previous_item.png",
+        "source": "/home/felipe/IonicProjects/botaoSite/platforms/android/res/drawable-xhdpi/ic_action_previous_item.png"
+    }
+]

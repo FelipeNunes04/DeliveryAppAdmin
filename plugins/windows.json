@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "botaoSite"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "botaoSite"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "botaoSite"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "botaoSite"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "botaoSite"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "botaoSite"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "botaoSite"
+        },
+        "ionic-plugin-deploy": {
+            "PACKAGE_NAME": "botaoSite"
+        }
+    },
+    "dependent_plugins": {}
+}

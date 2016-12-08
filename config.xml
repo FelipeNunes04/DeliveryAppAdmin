@@ -70,7 +70,7 @@
     <icon src="resources/wp8/icon/ApplicationIcon.png" width="99" height="99"/>
     <icon src="resources/wp8/icon/Background.png" width="159" height="159"/>
     <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
-    <Identity Name="CardpioClick.CardpioClick_1tsnxsmp27c8m" Publisher="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156" Version="1.0" />
+    <identity name="CardpioClick.CardpioClick_1tsnxsmp27c8m" publisher="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156" version="1.0" />
   </platform>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>

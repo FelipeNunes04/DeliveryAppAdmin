@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.botaosite888401" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Cardápio Click</name>
-  <description>Aplicativo para abrir site do Cardápio Click</description>
+  <name>Cardápio Click Delivery</name>
+  <description>Aplicativo para abrir site do Cardápio Click Delivery</description>
   <author email="felipennunes@hotmail.com" href="http://www.myclassapp.com.br/">Cardápio Click</author>
   <content src="index.html"/>
   <access origin="*"/>
@@ -70,6 +70,7 @@
     <icon src="resources/wp8/icon/ApplicationIcon.png" width="99" height="99"/>
     <icon src="resources/wp8/icon/Background.png" width="159" height="159"/>
     <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
+    <Identity Name="CardpioClick.CardpioClick_1tsnxsmp27c8m" Publisher="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156" Version="1.0" />
   </platform>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>

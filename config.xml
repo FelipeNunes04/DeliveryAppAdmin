@@ -3,7 +3,7 @@
   <name>Cardápio Click</name>
   <description>Aplicativo para abrir site do Cardápio Click</description>
   <author>Cardápio Click</author>
-  <preference name="CardpioClick.CardpioClick" value="PhonegapBuild.PhoneGapBuild" />
+  <preference name="windows-identity-name" value="CardpioClick.CardpioClick" />
   <content src="index.html"/>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>

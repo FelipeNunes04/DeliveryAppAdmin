@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.botaosite888401" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ionicframework.botaosite888401" version="0.0.1" xmlns="http://www.w3.org/ns/widgets">
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
@@ -27,8 +27,8 @@
         <param name="onload" value="true" />
     </feature>
     <name>Cardápio Click</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="felipennunes@hotmail.com" href="http://www.myclassapp.com.br/">Ionic Framework Team</author>
+    <description>Aplicativo para abrir site do Cardápio Click</description>
+    <author>Cardápio Click</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />

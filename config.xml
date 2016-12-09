@@ -3,7 +3,7 @@
   <name>Cardápio Click</name>
   <description>Aplicativo para abrir site do Cardápio Click</description>
   <author email="felipennunes@hotmail.com" href="http://www.cardapioclick.com.br/">Cardápio Click</author>
-  <identity name="CardpioClick.CardpioClick_1tsnxsmp27c8m" publisher="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156"/>
+  <preference name="cardapio-click" value="CardpioClick.CardpioClick" />
   <content src="index.html"/>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>

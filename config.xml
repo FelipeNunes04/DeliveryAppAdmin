@@ -2,8 +2,8 @@
 <widget id="com.ionicframework.botaosite888401" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Cardápio Click</name>
   <description>Aplicativo para abrir site do Cardápio Click</description>
-  <author email="felipennunes@hotmail.com" href="http://www.cardapioclick.com.br/">Cardápio Click</author>
-  <preference name="cardapio-click" value="CardpioClick.CardpioClick" />
+  <author>Cardápio Click</author>
+  <preference name="CardpioClick.CardpioClick" value="PhonegapBuild.PhoneGapBuild" />
   <content src="index.html"/>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>

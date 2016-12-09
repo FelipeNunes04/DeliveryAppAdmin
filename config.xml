@@ -4,7 +4,7 @@
   <description>Aplicativo para abrir site do Cardápio Click</description>
   <author>Cardápio Click</author>
   <preference name="windows-identity-name" value="CardpioClick.CardpioClick" />
-  <preference name="windows-publisher-name" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156" />
+  <preference name="windows-identity-publisher" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156" />
   <content src="index.html"/>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>

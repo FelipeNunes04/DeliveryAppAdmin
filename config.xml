@@ -72,7 +72,7 @@
     <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
   </platform>
   <preference name="windows-identity-name" value="CardpioClick.CardpioClick"/>
-  <preference name="windows-identity-publisher" value="1BD995BA-ED81-4FE1-86A9-55B2D7BB7156"/>
+  <preference name="WindowsStorePublisherName" value="1BD995BA-ED81-4FE1-86A9-55B2D7BB7156"/>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>

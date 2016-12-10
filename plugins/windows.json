@@ -8,28 +8,28 @@
     },
     "installed_plugins": {
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "botaoSite"
+            "PACKAGE_NAME": "Cardápio Click"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "botaoSite"
+            "PACKAGE_NAME": "Cardápio Click"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "botaoSite"
+            "PACKAGE_NAME": "Cardápio Click"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "botaoSite"
+            "PACKAGE_NAME": "Cardápio Click"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "botaoSite"
+            "PACKAGE_NAME": "Cardápio Click"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "botaoSite"
-        },
-        "ionic-plugin-keyboard": {
-            "PACKAGE_NAME": "botaoSite"
+            "PACKAGE_NAME": "Cardápio Click"
         },
         "ionic-plugin-deploy": {
-            "PACKAGE_NAME": "botaoSite"
+            "PACKAGE_NAME": "Cardápio Click"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "Cardápio Click"
         }
     },
     "dependent_plugins": {}

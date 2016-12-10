@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ionicframework.botaosite888401" version="0.0.2" xmlns="http://www.w3.org/ns/widgets">
+    <name>Cardápio Click</name>
+    <description>Aplicativo para abrir site do Cardápio Click</description>
+    <author>Cardápio Click</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
+    <preference name="windows-identity-name" value="CardpioClick.CardpioClick" />
+    <preference name="windows-identity-publisher" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="FadeSplashScreenDuration" value="300" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
+</widget>

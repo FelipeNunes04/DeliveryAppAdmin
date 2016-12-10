@@ -19,8 +19,8 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 119,
-                    "endColumn": 60,
-                    "endOffset": 175
+                    "endColumn": 51,
+                    "endOffset": 166
                 },
                 "from": {
                     "file": "/home/felipe/IonicProjects/botaoSite/platforms/android/res/values/strings.xml",
@@ -28,8 +28,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 60,
-                        "endOffset": 111
+                        "endColumn": 51,
+                        "endOffset": 102
                     }
                 }
             },
@@ -37,9 +37,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 180,
+                    "startOffset": 171,
                     "endColumn": 58,
-                    "endOffset": 234
+                    "endOffset": 225
                 },
                 "from": {
                     "file": "/home/felipe/IonicProjects/botaoSite/platforms/android/res/values/strings.xml"

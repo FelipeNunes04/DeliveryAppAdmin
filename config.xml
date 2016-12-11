@@ -66,15 +66,13 @@
     <splash src="resources/ios/splash/Default@2x~iphone.png" width="640" height="960"/>
     <splash src="resources/ios/splash/Default~iphone.png" width="320" height="480"/>
   </platform>
-  <platform name="wp8">
+  <platform name="winphone">
     <icon src="resources/wp8/icon/ApplicationIcon.png" width="99" height="99"/>
     <icon src="resources/wp8/icon/Background.png" width="159" height="159"/>
     <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
   </platform>
-  
-  <Preference name="PhoneGap-version" value="6.0" />
+   <preference name="phonegap-version" value="cli-5.4.1" />
   <preference name="windows-appx-target" value="uap" />    <!-- values:  uap, 8.1-win, 8.1-phone -->
-  <preference name="windows-arch" value="x64" />  <!-- values: anycpu, arm, x86, and x64-->
   <preference name="WindowsStorePublisherName" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156, O=Cardápio Click, L=Vidigal, S=Rio de Janeiro, C=BR" />
   <preference name="WindowsToastCapable" value="true" />
   <preference name="windows-identity-name" value="CardpioClick.CardpioClick" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.botaosite888401" version="0.0.2" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.ionicframework.botaosite888401" version="0.0.4" xmlns="http://www.w3.org/ns/widgets">
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
@@ -58,8 +58,11 @@
     <splash density="port-xxhdpi" src="resources/android/splash/drawable-port-xxhdpi-screen.png" />
     <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
     <preference name="loglevel" value="DEBUG" />
+    <preference name="phonegap-version" value="cli-5.4.1" />
+    <preference name="windows-appx-target" value="uap" />
+    <preference name="WindowsStorePublisherName" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156, O=Cardápio Click, L=Vidigal, S=Rio de Janeiro, C=BR" />
+    <preference name="WindowsToastCapable" value="true" />
     <preference name="windows-identity-name" value="CardpioClick.CardpioClick" />
-    <preference name="windows-identity-publisher" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156" />
     <preference name="webviewbounce" value="false" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />

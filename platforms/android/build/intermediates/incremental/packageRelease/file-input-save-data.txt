@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 10 13:01:16 BRT 2016
+#Fri Dec 16 02:10:05 BRT 2016
 5.base=/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/res/resources-release.ap_
 42.base=/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/res/resources-release.ap_
 32.set=ASSET

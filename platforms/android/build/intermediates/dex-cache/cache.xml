@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fd2289c35941e001103e6fffc557053ff37f89d8">
+        <dex dex="/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-unspecified-release_a006ab699b6510e85c19f5c22cee84caff22b2b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
         jumboMode="false"
         optimize="true"

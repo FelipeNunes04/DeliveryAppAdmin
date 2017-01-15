@@ -14,7 +14,7 @@ import {Deploy} from '@ionic/cloud-angular';
   templateUrl: 'home.html'
 })
 export class HomePage {
-  
+
   constructor(public navCtrl: NavController, public deploy: Deploy, public platform: Platform) {
 
   }

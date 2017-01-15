@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.botaosite888401" version="0.0.4" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.ionicframework.botaosite888401" version="0.0.5" xmlns="http://www.w3.org/ns/widgets">
   <name>Cardápio Click</name>
   <description>Aplicativo para abrir site do Cardápio Click</description>
   <author>Cardápio Click</author>
-  <content src="index.html"/>
+  <content src="http://www.cardapioclick.com.br"/>
   <access origin="*"/>
   <allow-navigation href="*"/>
   <allow-intent href="http://*/*"/>
@@ -36,9 +36,9 @@
   <platform name="ios">
     <allow-intent href="itms:*"/>
     <allow-intent href="itms-apps:*"/>
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-navigation href="*" />
+    <allow-intent href="http://*/*"/>
+    <allow-intent href="https://*/*"/>
+    <allow-navigation href="*"/>
     <icon src="resources/ios/icon/icon.png" width="57" height="57"/>
     <icon src="resources/ios/icon/icon@2x.png" width="114" height="114"/>
     <icon src="resources/ios/icon/icon-40.png" width="40" height="40"/>

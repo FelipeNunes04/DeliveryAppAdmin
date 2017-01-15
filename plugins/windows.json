@@ -30,6 +30,9 @@
         },
         "ionic-plugin-keyboard": {
             "PACKAGE_NAME": "Cardápio Click"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "Cardápio Click"
         }
     },
     "dependent_plugins": {}

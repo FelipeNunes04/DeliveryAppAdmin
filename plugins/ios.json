@@ -30,6 +30,9 @@
         },
         "ionic-plugin-keyboard": {
             "PACKAGE_NAME": "com.ionicframework.botaosite888401"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ionicframework.botaosite888401"
         }
     },
     "dependent_plugins": {}

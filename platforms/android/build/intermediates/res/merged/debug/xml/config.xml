@@ -26,11 +26,15 @@
         <param name="android-package" value="io.ionic.keyboard.IonicKeyboard" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
     <name>Cardápio Click</name>
     <description>Aplicativo para abrir site do Cardápio Click</description>
     <author>Cardápio Click</author>
     <content src="index.html" />
     <access origin="*" />
+    <allow-navigation href="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
@@ -58,6 +62,7 @@
     <splash density="port-xxhdpi" src="resources/android/splash/drawable-port-xxhdpi-screen.png" />
     <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
     <preference name="loglevel" value="DEBUG" />
+    <preference name="LoadUrlTimeoutValue" value="70000" />
     <preference name="phonegap-version" value="cli-5.4.1" />
     <preference name="windows-appx-target" value="uap" />
     <preference name="WindowsStorePublisherName" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156, O=Cardápio Click, L=Vidigal, S=Rio de Janeiro, C=BR" />

@@ -80,6 +80,7 @@
     <icon src="resources/wp8/icon/Background.png" width="159" height="159"/>
     <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
   </platform>
+  <preference name="LoadUrlTimeoutValue" value="70000"/>
   <preference name="phonegap-version" value="cli-5.4.1"/>
   <preference name="windows-appx-target" value="uap"/>
   <preference name="WindowsStorePublisherName" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156, O=Cardápio Click, L=Vidigal, S=Rio de Janeiro, C=BR"/>

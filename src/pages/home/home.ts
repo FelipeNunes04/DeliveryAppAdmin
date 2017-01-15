@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import { Platform } from 'ionic-angular';
+
 import { NavController } from 'ionic-angular';
 
 import { InAppBrowser } from 'ionic-native';
@@ -12,11 +14,11 @@ import {Deploy} from '@ionic/cloud-angular';
   templateUrl: 'home.html'
 })
 export class HomePage {
+  
+  constructor(public navCtrl: NavController, public deploy: Deploy, public platform: Platform) {
 
-  constructor(public navCtrl: NavController, public deploy: Deploy) {
-    
   }
 
-  
+
 
 }

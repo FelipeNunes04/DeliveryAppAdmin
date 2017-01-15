@@ -1,4 +1,4 @@
-#Thu Jan 05 23:54:32 BRT 2017
+#Sat Jan 14 23:00:15 BRT 2017
 base.0=/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/home/felipe/IonicProjects/botaoSite/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

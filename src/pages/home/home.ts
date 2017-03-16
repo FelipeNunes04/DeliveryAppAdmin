@@ -19,6 +19,10 @@ export class HomePage {
 
   }
 
+  itemSelected (url: string):void {
+   let browser = new InAppBrowser(url, '_system');
+ }
+
 
 
 }

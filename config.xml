@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.botaosite888401" version="0.0.5" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.ionicframework.botaosite888401" version="0.0.6" xmlns="http://www.w3.org/ns/widgets">
   <name>Cardápio Click</name>
   <description>Aplicativo para abrir site do Cardápio Click</description>
   <author>Cardápio Click</author>
-  <content src="http://www.cardapioclick.com.br"/>
+  <content src="index.html"/>
   <access origin="*"/>
-  <allow-navigation href="*"/>
   <allow-intent href="http://*/*"/>
   <allow-intent href="https://*/*"/>
   <allow-intent href="tel:*"/>
@@ -36,9 +35,6 @@
   <platform name="ios">
     <allow-intent href="itms:*"/>
     <allow-intent href="itms-apps:*"/>
-    <allow-intent href="http://*/*"/>
-    <allow-intent href="https://*/*"/>
-    <allow-navigation href="*"/>
     <icon src="resources/ios/icon/icon.png" width="57" height="57"/>
     <icon src="resources/ios/icon/icon@2x.png" width="114" height="114"/>
     <icon src="resources/ios/icon/icon-40.png" width="40" height="40"/>
@@ -80,7 +76,6 @@
     <icon src="resources/wp8/icon/Background.png" width="159" height="159"/>
     <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
   </platform>
-  <preference name="LoadUrlTimeoutValue" value="70000"/>
   <preference name="phonegap-version" value="cli-5.4.1"/>
   <preference name="windows-appx-target" value="uap"/>
   <preference name="WindowsStorePublisherName" value="CN=1BD995BA-ED81-4FE1-86A9-55B2D7BB7156, O=Cardápio Click, L=Vidigal, S=Rio de Janeiro, C=BR"/>
